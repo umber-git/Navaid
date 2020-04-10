@@ -2616,6 +2616,7 @@ input, select, textarea {
 			-ms-flex-grow: 1;
 			flex-grow: 1;
 			margin: 0 0 2em 0;
+			display: block;
 		}
 
 		#header strong, #header b {
