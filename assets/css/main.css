@@ -3007,6 +3007,7 @@ input, select, textarea {
 
 				#header > .inner {
 					margin-bottom: 0;
+					display: block;
 				}
 
 		/* Footer */
